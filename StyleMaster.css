@@ -1,0 +1,87 @@
+﻿body {
+    background-color: #f4f6fa  !important;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+}
+
+.dotContainer {
+    margin-top: 5px;
+    margin-left: 1265px;
+}
+
+
+.ContentPlaceHolder1{
+    margin-top: -15px;
+}
+
+
+.title_container {
+    height: 62px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+#lblTitle {
+    color: white;
+    font-family: Courier New, Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #171F30 !important;
+    margin-top: 15px;
+}
+
+#lblFooter {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+    background: #171f30 !important;
+    color: white !important;
+}
+
+.fa-linkedin {
+    background: #171f30 !important;
+    color: white;
+}
+
+.fa-instagram {
+    background: #171f30 !important;
+    color: white;
+}
+
+
+
+.fa-github {
+    background: #171f30 !important;
+    color: white;
+}

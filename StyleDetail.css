@@ -1,0 +1,59 @@
+﻿body {
+    background-color: #f4f6fa !important;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.secondContainer {
+    width: 600px;
+    height: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+.btnContainer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mainContainer {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.container1, .container2 {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+#lblTitleDetail {
+    font-family: Courier New, Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.imgCircle {
+    height: 25px;
+    width: 25px;
+    /*  background-color: red !important;
+    border-radius: 50%;*/
+    display: inline-block;
+}
+
+.circleContainer {
+    margin-top: 5px;
+    margin-left: 1265px;
+}

@@ -1,0 +1,48 @@
+﻿body {
+    background-color: #f4f6fa !important;
+}
+
+.Maincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.secondContainer {
+    width: 600px;
+    height: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.containerTitle {
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    color: #171f30 !important;
+}
+
+
+.btnContainer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.imgCircle {
+    height: 25px;
+    width: 25px;
+    /*  background-color: red !important;
+    border-radius: 50%;*/
+    display: inline-block;
+}
+
+.circleContainer {
+    margin-top: 5px;
+    margin-left: 1265px;
+}
